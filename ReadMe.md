@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 En ce moment j'essaie de créer des plugins<br>🤝 J'apprécierais de l'aide pour Java et sql<br>🌱 J'essaie d'apprendre le Java, sql, python, c, etc
+🔭 En ce moment j'essaie de créer des applications java<br>🤝 J'apprécierais de l'aide pour Java et sql<br>🌱 J'essaie d'apprendre le Java, sql, python, c, etc
 
 
 ## 🌐 Socials:
